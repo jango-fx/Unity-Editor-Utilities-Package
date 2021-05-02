@@ -1,0 +1,18 @@
+{
+  "name": "artcom.editorutilities",
+  "version": "0.0.1",
+  "displayName": "ART+COM Editor Utilities",
+  "description": "Collections of Editor Utilities and Convenience Scripts ",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [
+    "Editor",
+    "Utilities",
+    "Convenience"
+  ],
+  "author": {
+    "name": "Felix Groll",
+    "email": "felix.groll@artcom.de",
+    "url": "https://www.artcom.de"
+  }
+}
