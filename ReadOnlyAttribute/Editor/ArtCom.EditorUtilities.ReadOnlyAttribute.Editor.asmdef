@@ -1,6 +1,8 @@
 {
-    "name": "ArtCom.EditorUtilities.Editor",
-    "references": [],
+    "name": "ArtCom.EditorUtilities.ReadOnlyAttribute.Editor",
+    "references": [
+        "ArtCom.EditorUtilities.ReadOnlyAttribute"
+    ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
