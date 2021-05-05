@@ -1,0 +1,14 @@
+{
+    "name": "ArtCom.EditorUtilities.SceneReference.Demo",
+    "references": [
+        "ArtCom.EditorUtilities.SceneReference"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
