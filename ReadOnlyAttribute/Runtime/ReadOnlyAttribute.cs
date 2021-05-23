@@ -4,7 +4,7 @@
 
 using UnityEngine;
 
-namespace ArtCom.EditorUtilities
+namespace UnityUtils.EditorUtilities
 {    
     public class ReadOnlyAttribute : PropertyAttribute { }
 }   

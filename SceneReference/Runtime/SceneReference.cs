@@ -7,7 +7,7 @@ using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace ArtCom.EditorUtilities.SceneReferences
+namespace UnityUtils.EditorUtilities.SceneReferences
 {
     /// <summary>
     /// Class used to serialize a reference to a scene asset that can be used

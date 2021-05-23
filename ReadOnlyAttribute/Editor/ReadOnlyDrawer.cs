@@ -6,7 +6,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace ArtCom.EditorUtilities
+namespace UnityUtils.EditorUtilities
 {
 
     /// <summary>

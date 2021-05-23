@@ -4,7 +4,7 @@
 // ----------------------------------------------------------------------------
 
 using UnityEngine;
-using ArtCom.EditorUtilities.SceneReferences;
+using UnityUtils.EditorUtilities.SceneReferences;
 
 namespace RoboRyanTron.SceneReferences
 {

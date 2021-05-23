@@ -5,7 +5,7 @@
 
 using System;
 using UnityEngine;
-using ArtCom.EditorUtilities.QuickButtons;
+using UnityUtils.EditorUtilities.QuickButtons;
 
 namespace RoboRyanTron.QuickButtons.Demo
 {

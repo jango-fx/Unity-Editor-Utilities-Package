@@ -9,7 +9,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace ArtCom.EditorUtilities.QuickButtons.Editor
+namespace UnityUtils.EditorUtilities.QuickButtons.Editor
 {
     [CustomPropertyDrawer(typeof(QuickButton))]
     public class QuickButtonDrawer : PropertyDrawer

@@ -4,7 +4,7 @@
 // ----------------------------------------------------------------------------
 
 using UnityEngine;
-using ArtCom.EditorUtilities.SearchableEnum;
+using UnityUtils.EditorUtilities.SearchableEnum;
 
 namespace RoboRyanTron.SearchableEnum
 {

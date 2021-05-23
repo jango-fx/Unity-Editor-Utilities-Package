@@ -1,9 +1,9 @@
 {
-    "name": "ArtCom.EditorUtilities.SceneReference.Demo",
+    "name": "UnityUtils.EditorUtilities.QuickButtons.Editor",
+    "rootNamespace": "",
     "references": [
-        "ArtCom.EditorUtilities.SceneReference"
+        "UnityUtils.EditorUtilities.QuickButtons"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -12,5 +12,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

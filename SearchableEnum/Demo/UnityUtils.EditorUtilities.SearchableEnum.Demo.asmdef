@@ -1,7 +1,7 @@
 {
-    "name": "ArtCom.EditorUtilities.ReadOnlyAttribute.Editor",
+    "name": "UnityUtils.EditorUtilities.SearchableEnum.Demo",
     "references": [
-        "ArtCom.EditorUtilities.ReadOnlyAttribute"
+        "UnityUtils.EditorUtilities.SearchableEnum"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

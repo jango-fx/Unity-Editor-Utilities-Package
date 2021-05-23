@@ -1,7 +1,7 @@
 {
-    "name": "ArtCom.EditorUtilities.QuickButtons.Demo",
+    "name": "UnityUtils.EditorUtilities.SearchableEnum.Editor",
     "references": [
-        "ArtCom.EditorUtilities.QuickButtons"
+        "UnityUtils.EditorUtilities.SearchableEnum"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [

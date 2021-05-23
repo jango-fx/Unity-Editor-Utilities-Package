@@ -1,8 +1,12 @@
 {
-    "name": "ArtCom.EditorUtilities.ReadOnlyAttribute",
-    "references": [],
+    "name": "UnityUtils.EditorUtilities.SceneReference.Demo",
+    "references": [
+        "UnityUtils.EditorUtilities.SceneReference"
+    ],
     "optionalUnityReferences": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

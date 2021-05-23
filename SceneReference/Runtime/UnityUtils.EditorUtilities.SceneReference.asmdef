@@ -1,12 +1,8 @@
 {
-    "name": "ArtCom.EditorUtilities.SearchableEnum.Demo",
-    "references": [
-        "ArtCom.EditorUtilities.SearchableEnum"
-    ],
+    "name": "UnityUtils.EditorUtilities.SceneReference",
+    "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

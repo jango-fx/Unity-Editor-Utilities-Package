@@ -7,7 +7,7 @@ using System;
 using System.Reflection;
 using UnityEngine;
 
-namespace ArtCom.EditorUtilities.QuickButtons
+namespace UnityUtils.EditorUtilities.QuickButtons
 {
     /// <summary>
     /// QuickButtons can be placed in any MonoBehaviour, ScriptableObject,

@@ -6,7 +6,7 @@
 using System;
 using UnityEngine;
 
-namespace ArtCom.EditorUtilities.SearchableEnum
+namespace UnityUtils.EditorUtilities.SearchableEnum
 {
     /// <summary>
     /// Put this attribute on a public (or SerialzeField) enum in a
