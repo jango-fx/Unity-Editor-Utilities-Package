@@ -1,6 +1,6 @@
 {
   "name": "io.github.jango-fx.editorutilities",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "displayName": "Unity Editor Utilities",
   "description": "Collections of Editor Utilities and Convenience Scripts ",
   "unity": "2019.1",

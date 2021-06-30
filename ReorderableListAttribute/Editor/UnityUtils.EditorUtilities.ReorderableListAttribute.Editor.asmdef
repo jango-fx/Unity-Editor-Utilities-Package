@@ -1,0 +1,16 @@
+{
+    "name": "UnityUtils.EditorUtilities.ReorderableListAttribute.Editor",
+    "references": [
+        "UnityUtils.EditorUtilities.ReorderableListAttribute"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
