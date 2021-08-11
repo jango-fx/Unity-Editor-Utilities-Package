@@ -7,7 +7,7 @@ to include in a project
 
 or
 
-- select add git url from the Package Manager and use `https://github.com/jango-fx/Unity-Editor-Utilities-Package.git` as URL.
+- select `Add package from git URL…` from the Package Manager and use `https://github.com/jango-fx/Unity-Editor-Utilities-Package.git` as URL.
 
 
 ## about
