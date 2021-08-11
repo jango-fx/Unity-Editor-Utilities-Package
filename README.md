@@ -1,6 +1,15 @@
 # Unity Editor Utilities
 a collection Unity scripts to extend the unity editor.
 
+to include in a project
+
+- add `io.github.jango-fx.editorutilities": "https://github.com/jango-fx/Unity-Editor-Utilities-Package.git` to your projects package manifest
+
+or
+
+- select add git url from the Package Manager and use `https://github.com/jango-fx/Unity-Editor-Utilities-Package.git` as URL.
+
+
 ## about
 this is a a work in progress.
 it's a growing collection of unity scripts that i develop for my own personal work.
