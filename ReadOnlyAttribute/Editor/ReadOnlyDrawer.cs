@@ -6,7 +6,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace UnityUtils.EditorUtilities
+namespace ƒx.UnityUtils.Editor
 {
 
     /// <summary>

@@ -1,8 +1,8 @@
 {
-  "name": "io.github.jango-fx.editorutilities",
-  "version": "0.0.4",
-  "displayName": "Unity Editor Utilities",
-  "description": "Collections of Editor Utilities and Convenience Scripts ",
+  "name": "io.github.jango-fx.unityutils.editor",
+  "version": "2.0.0",
+  "displayName": "Unity Utilities Editor Package",
+  "description": "a collection of personal utility and convenience scripts expanding the Unity editor",
   "unity": "2019.1",
   "dependencies": {},
   "keywords": [
@@ -12,6 +12,6 @@
   ],
   "author": {
     "name": "Felix Groll",
-    "url": "https://github.com/jango-fx"
+    "url": "https://jango-fx.github.io"
   }
 }

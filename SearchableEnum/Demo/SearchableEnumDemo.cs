@@ -1,24 +1,12 @@
-﻿// ---------------------------------------------------------------------------- 
-// Author: Ryan Hipple
-// Date:   05/01/2018
-// ----------------------------------------------------------------------------
-
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-using UnityUtils.EditorUtilities.SearchableEnum;
+using ƒx.UnityUtils.Editor;
 
-namespace RoboRyanTron.SearchableEnum
+public class SearchableEnumDemo : MonoBehaviour
 {
-    /// <summary>
-    /// A demo of the SearchableEnumPopup on a ScriptableObject.
-    /// </summary>
-    //[CreateAssetMenu]
-    public class ExampleConfigFile : ScriptableObject
-    {
-        [Tooltip("This enum is fucking miserable.")]
-        public KeyCode LameKeyCode;
-        
-        [Tooltip("The finest enum browsing experience one can have.")]
-        [SearchableEnum]
-        public KeyCode AwesomeKeyCode;
-    }
+    public KeyCode LameKeyCode;
+    [SearchableEnum]
+    public KeyCode AwesomeKeyCode;
+
 }

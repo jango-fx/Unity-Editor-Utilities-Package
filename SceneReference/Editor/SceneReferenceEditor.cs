@@ -7,7 +7,7 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityUtils.EditorUtilities.SceneReferences.Editor
+namespace ƒx.UnityUtils.Editor
 {
     /// <summary>
     /// Editor for a scene reference that can display error prompts and offer

@@ -5,28 +5,25 @@
 
 using System;
 using UnityEngine;
-using UnityUtils.EditorUtilities.QuickButtons;
+using ƒx.UnityUtils.Editor;
 
-namespace RoboRyanTron.QuickButtons.Demo
+[Serializable]
+public class NestedClass
 {
     [Serializable]
-    public class NestedClass
+    public class DeeperNestedClass
     {
-        [Serializable]
-        public class DeeperNestedClass
-        {
-            public QuickButton DeeperButton = new QuickButton(input =>
-                Debug.Log("so deep "));
-        }
-        
-        public DeeperNestedClass DeeperNested;
-        public string Message;
-      
-            
-        public QuickButton NestedDelegateButton = new QuickButton(input =>
-        {
-            NestedClass nested = input as NestedClass;
-            Debug.Log("Nested Button Pressed " + nested.Message);
-        });
+        public QuickButton DeeperButton = new QuickButton(input =>
+            Debug.Log("so deep "));
     }
+    
+    public DeeperNestedClass DeeperNested;
+    public string Message;
+    
+        
+    public QuickButton NestedDelegateButton = new QuickButton(input =>
+    {
+        NestedClass nested = input as NestedClass;
+        Debug.Log("Nested Button Pressed " + nested.Message);
+    });
 }

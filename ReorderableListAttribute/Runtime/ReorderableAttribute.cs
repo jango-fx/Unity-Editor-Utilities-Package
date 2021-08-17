@@ -22,7 +22,7 @@ SOFTWARE.*/
 
 using UnityEngine;
 
-namespace UnityUtils.EditorUtilities
+namespace ƒx.UnityUtils.Editor
 {
 	/// <summary>
 	/// Display a List/Array as a sortable list in the inspector

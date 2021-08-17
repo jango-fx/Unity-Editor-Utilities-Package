@@ -28,7 +28,7 @@ using System.Reflection;
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityUtils.EditorUtilities
+namespace ƒx.UnityUtils.Editor
 {
 	internal static class SerializedPropExtension
 	{

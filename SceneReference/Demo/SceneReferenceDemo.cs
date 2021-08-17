@@ -4,29 +4,26 @@
 // ----------------------------------------------------------------------------
 
 using UnityEngine;
-using UnityUtils.EditorUtilities.SceneReferences;
+using ƒx.UnityUtils.Editor;
 
-namespace RoboRyanTron.SceneReferences
+public class SceneReferenceDemo : MonoBehaviour
 {
-    public class SceneReferenceDemo : MonoBehaviour
-    {
-        public SceneReference SceneReferenceA;
-        public SceneReference SceneReferenceB;
+    public SceneReference SceneReferenceA;
+    public SceneReference SceneReferenceB;
 
-        /// <summary>
-        /// Called by UnityEvent from a Button.
-        /// </summary>
-        public void LoadSceneA()
-        {
-            SceneReferenceA.LoadScene();
-        }
-        
-        /// <summary>
-        /// Called by UnityEvent from a Button.
-        /// </summary>
-        public void LoadSceneB()
-        {
-            SceneReferenceB.LoadScene();
-        }
+    /// <summary>
+    /// Called by UnityEvent from a Button.
+    /// </summary>
+    public void LoadSceneA()
+    {
+        SceneReferenceA.LoadScene();
+    }
+    
+    /// <summary>
+    /// Called by UnityEvent from a Button.
+    /// </summary>
+    public void LoadSceneB()
+    {
+        SceneReferenceB.LoadScene();
     }
 }

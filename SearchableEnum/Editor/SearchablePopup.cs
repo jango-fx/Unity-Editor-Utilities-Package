@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-namespace UnityUtils.EditorUtilities.SearchableEnum.Editor
+namespace ƒx.UnityUtils.Editor
 {
     /// <summary>
     /// A popup window that displays a list of options and may use a search

@@ -1,12 +1,8 @@
 {
-    "name": "UnityUtils.EditorUtilities.SceneReference.Demo",
-    "references": [
-        "UnityUtils.EditorUtilities.SceneReference"
-    ],
+    "name": "ƒx.UnityUtils.Editor",
+    "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

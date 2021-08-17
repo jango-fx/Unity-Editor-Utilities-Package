@@ -4,7 +4,7 @@
 
 using UnityEngine;
 
-namespace UnityUtils.EditorUtilities
+namespace ƒx.UnityUtils.Editor
 {    
     public class ReadOnlyAttribute : PropertyAttribute { }
 }   
