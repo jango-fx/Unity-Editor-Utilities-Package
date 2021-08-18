@@ -6,7 +6,6 @@
 using UnityEngine;
 using ƒx.UnityUtils.Editor;
 
-[CreateAssetMenu(menuName = "Scriptable Objects/SearchableEnumDemo")]
 public class SearchableEnumScriptableObjectDemoClass : ScriptableObject
 {
     [Tooltip("This enum is fucking miserable.")]
