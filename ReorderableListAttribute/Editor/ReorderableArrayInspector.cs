@@ -26,6 +26,7 @@ SOFTWARE.*/
 // Uncomment the line below to make all ScriptableObject fields editable
 //#define EDIT_ALL_SCRIPTABLES
 
+#if !UNITY_2020_1_OR_NEWER
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -886,3 +887,4 @@ namespace ƒx.UnityUtils.Editor
 #endregion
 	}
 }
+#endif

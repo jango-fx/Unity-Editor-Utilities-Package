@@ -1,3 +1,5 @@
+#if !UNITY_2020_1_OR_NEWER
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -33,3 +35,4 @@ public class ReorderableListDemo : MonoBehaviour
     }
 
 }
+#endif

@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*/
 
+#if !UNITY_2020_1_OR_NEWER
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -313,3 +314,4 @@ namespace ƒx.UnityUtils.Editor
 		#endregion
 	}
 }
+#endif
